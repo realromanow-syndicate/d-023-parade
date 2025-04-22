@@ -83,9 +83,6 @@ DBLoader@Data.*
 
 # Custom BX section
 
-# Addresables build data
-/ServerData/*
-
 # Temp folder in Assets for local file
 # This files should not be referenced by other assets!
 /[Aa]ssets/[Tt]emp/*
