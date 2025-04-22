@@ -15576,6 +15576,7 @@ GameObject:
   - component: {fileID: 2114634769}
   - component: {fileID: 2114634770}
   - component: {fileID: 2114634771}
+  - component: {fileID: 2114634772}
   m_Layer: 0
   m_Name: Script
   m_TagString: Untagged
@@ -15696,6 +15697,19 @@ MonoBehaviour:
   startHistory: {fileID: 535410754}
   name: {fileID: 520997025}
   nae: {fileID: 658143397}
+--- !u!114 &2114634772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2114634766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6811f9ee804cf8b2476a8b766786c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assetAddress: Assets/Sprite/UI/Home (1).png
 --- !u!1 &2117114359
 GameObject:
   m_ObjectHideFlags: 0
