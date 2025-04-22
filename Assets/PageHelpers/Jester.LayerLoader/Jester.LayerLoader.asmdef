@@ -1,0 +1,17 @@
+{
+    "name": "Jester.LayerLoader",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:a91702fe79a8463f807d93385bd77bac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

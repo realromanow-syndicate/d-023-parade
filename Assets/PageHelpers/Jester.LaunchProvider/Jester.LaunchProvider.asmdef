@@ -1,0 +1,23 @@
+{
+    "name": "Jester.LaunchProvider",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0dab464d94b34cf1abe1056b5c525f14",
+        "GUID:09b2ab212f594932b2182e8920090930",
+        "GUID:3c7bf4b9b6d94adf95afcd94e58fa3d8",
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:f33a6380239d4762a390bca7d6b3f87a",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:a91702fe79a8463f807d93385bd77bac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

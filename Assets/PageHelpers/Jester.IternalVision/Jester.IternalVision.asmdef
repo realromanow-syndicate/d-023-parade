@@ -1,0 +1,18 @@
+{
+    "name": "Jester.IternalVision",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:4ca033ee547ec451c8a2d3c33d7620ad",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44cfa2ed7fd44457b7d825226c17e96b, type: 3}
+  m_Name: JesterTrackingTransparency
+  m_EditorClassIdentifier: 
+  _uiPreferences:
+    _canvas: {fileID: 6620969704726375608, guid: 9904b642d9833417d948343255e6ef42, type: 3}
+    _trackingTransparencyScreen: {fileID: 480079650412941119, guid: 9b806f328760e4de6a4e08cb9f5dbd19, type: 3}

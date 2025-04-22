@@ -1,0 +1,16 @@
+{
+    "name": "Jester.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

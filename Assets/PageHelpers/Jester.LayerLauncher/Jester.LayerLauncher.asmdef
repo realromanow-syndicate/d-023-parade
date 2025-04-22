@@ -1,0 +1,26 @@
+{
+    "name": "Jester.LayerLauncher",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2a37df438292d4903b4e5159c5de3bf9",
+        "GUID:8038ab7e2f434d3580571d9af272d78f",
+        "GUID:15a6ad305044487893729f1a77212689",
+        "GUID:74cda2d16c954b51bdc8309de6f5a5ba",
+        "GUID:dea154c9b8c84a9aa89c10eeceea52d6",
+        "GUID:d3c648fc247c42c4b849cf8005ba2ca9",
+        "GUID:462d84c024d6453a8ebe6546874402f8",
+        "GUID:98af7d7c205549d0885d338a4b0a3ceb",
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

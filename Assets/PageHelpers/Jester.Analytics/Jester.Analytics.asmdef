@@ -1,0 +1,19 @@
+{
+    "name": "Jester.Analytics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:2a37df438292d4903b4e5159c5de3bf9",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

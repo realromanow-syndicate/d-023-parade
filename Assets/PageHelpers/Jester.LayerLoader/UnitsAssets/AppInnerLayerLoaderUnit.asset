@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 815628b0451045adb7f59050e9c38a60, type: 3}
+  m_Name: AppInnerLayerLoaderUnit
+  m_EditorClassIdentifier: 
+  uiPreferences:
+    _unitCanvasReference: {fileID: 3673024722968899878, guid: d29a27143329c4b3981d2ceb1a69fdf2, type: 3}
+    _loadingScreenReference: {fileID: 6689045704972280206, guid: ff9a9e33bd6b746ddb0fb654dc7a8337, type: 3}
+    _blackoutScreenReference: {fileID: 6689045704972280206, guid: 03e5a81e194dc48eaab6d22eadc1c4df, type: 3}

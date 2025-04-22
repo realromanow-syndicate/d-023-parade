@@ -1,0 +1,20 @@
+{
+    "name": "Jestery.InnerMessages",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4aa282f92fb436aa82ee40049657670",
+        "GUID:15a6ad305044487893729f1a77212689",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

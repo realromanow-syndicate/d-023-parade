@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5de35d5a21343b0ae30432f8cfe0fa5, type: 3}
+  m_Name: JesterMetaLayer
+  m_EditorClassIdentifier: 
+  units:
+  - {fileID: 11400000, guid: a8572f85d10d8674f97d2f6c9e8b20e6, type: 2}
+  - {fileID: 11400000, guid: c96683542aa274ea191399a6d4f8fb72, type: 2}
+  - {fileID: 11400000, guid: aacb91b2e9bdf5546a156096171ca1f7, type: 2}
+  - {fileID: 11400000, guid: 2ea69048d1895ec47b1c9ada31644150, type: 2}
+  - {fileID: 11400000, guid: 749e04560c3a46f498711e2ce6853ab1, type: 2}
+  - {fileID: 11400000, guid: 685bb572487a4463cb8a80cdeb371408, type: 2}
+  - {fileID: 11400000, guid: f4d2aca2243894182994ed8987f902af, type: 2}
+  - {fileID: 11400000, guid: 095cb7587d1615843b6c299667abb48f, type: 2}
+  - {fileID: 11400000, guid: 6197c54300fc8e3468f4059debe6e2ca, type: 2}
