@@ -79,6 +79,20 @@ MonoBehaviour:
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: f65605e8712134f2a97ab68ae9d1ccdf
         m_Value: <undefined>
+    - m_InheritedParent: 
+      m_Id: 658977ab1250a4b3fb9ea1c9d089c0d3
+      m_ProfileName: GitHub
+      m_Values:
+      - m_Id: 0de8a3819065c4edab8f9b27d2733956
+        m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: 1e5e195ae6be04287a31f9eec3d36f0c
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 86b559b7f66954ffcb3627e029f4acc6
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: f515f23a756bc4ac18aecbfbb97d0fd1
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: f65605e8712134f2a97ab68ae9d1ccdf
+        m_Value: https://realromanow.github.io/d-023-parade/ServerData
     m_ProfileEntryNames:
     - m_Id: 0de8a3819065c4edab8f9b27d2733956
       m_Name: Remote.BuildPath
@@ -111,4 +125,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 19910116643b748a4940e246c83245e2, type: 2}
   - {fileID: 11400000, guid: 4edbf85f329614b7f80131f8c73f8166, type: 2}
   - {fileID: 11400000, guid: 1c6763c02135d4d6dac80ba5fc042d21, type: 2}
-  m_ActiveProfileId: 449e8b814f9ca4b1db62e0842dbccd4c
+  m_ActiveProfileId: 658977ab1250a4b3fb9ea1c9d089c0d3
