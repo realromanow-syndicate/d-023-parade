@@ -31,7 +31,7 @@ jobs:
 
   releaseToAppStore:
     name: Release to the App Store
-    runs-on: macos-latest-xlarge
+    runs-on: macos-15-xlarge
     needs: buildForiOSPlatform
     steps:
       - name: Checkout Repository
