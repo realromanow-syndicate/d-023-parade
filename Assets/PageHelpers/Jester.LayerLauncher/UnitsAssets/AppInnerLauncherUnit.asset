@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AppInnerLauncherUnit
   m_EditorClassIdentifier: 
   apiPreferences:
-    _requestAddress: https://birdsyardeggscommotion.com/config.php
+    _requestAddress: https://jugglersblumparade.com/config.php
   paramsPreferences:
-    _googleFirebaseProject: 1057037507765
-    _appleIos: id6744027298
+    _googleFirebaseProject: 40974768654
+    _appleIos: id6744583120

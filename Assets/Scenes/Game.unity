@@ -3085,7 +3085,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.69
-  m_Text: You win!
+  m_Text: WELL DONE!
 --- !u!222 &313845013
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7775,7 +7775,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.69
-  m_Text: You Lose
+  m_Text: TRY AGAIN!
 --- !u!222 &825964793
 CanvasRenderer:
   m_ObjectHideFlags: 0

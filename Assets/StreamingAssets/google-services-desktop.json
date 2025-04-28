@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "40974768654",
+    "project_id": "jester-pride-parade",
+    "storage_bucket": "jester-pride-parade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40974768654:ios:5a8d276277cae97926fa5f",
+        "android_client_info": {
+          "package_name": "com.nawaishamartab.parade"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_7dA23otkKoe7dCs9w_4WzUuPN07PaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

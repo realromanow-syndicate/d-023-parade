@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: AppInnerAnalyticsUnit
   m_EditorClassIdentifier: 
   _preferences:
-    _analyticsDevKey: 6zwNX3MzBRjkyAzs57hU7b
-    _analyticsStoreId: id6744027298
+    _analyticsDevKey: qfMccmjj3bhoAjP8XxG7EZ
+    _analyticsStoreId: id6744583120
     _analyticsListenerPrefabReference: {fileID: 9023451788345050817, guid: 749c4e33f7a5156408aa89777c5882de, type: 3}

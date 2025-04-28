@@ -4243,7 +4243,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &535410755
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7969,6 +7969,51 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 6746982596748099966, guid: 8acd8ccb84be8fa4d9494c7a732cba47, type: 3}
   m_PrefabInstance: {fileID: 1041336025}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1070139009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1070139011}
+  - component: {fileID: 1070139010}
+  m_Layer: 0
+  m_Name: AppSetup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1070139010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070139009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe43b8470e043bca4ab4488ddf5dfd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _setup: {fileID: 11400000, guid: 0b40eb41522ab45ebb0ce104d9ad6e24, type: 2}
+--- !u!4 &1070139011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070139009}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1072493682
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15576,7 +15621,6 @@ GameObject:
   - component: {fileID: 2114634769}
   - component: {fileID: 2114634770}
   - component: {fileID: 2114634771}
-  - component: {fileID: 2114634772}
   m_Layer: 0
   m_Name: Script
   m_TagString: Untagged
@@ -15689,7 +15733,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2114634766}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b30ad7dc5e60c684a8b5e0cd57786a62, type: 3}
   m_Name: 
@@ -15697,19 +15741,6 @@ MonoBehaviour:
   startHistory: {fileID: 535410754}
   name: {fileID: 520997025}
   nae: {fileID: 658143397}
---- !u!114 &2114634772
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2114634766}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa6811f9ee804cf8b2476a8b766786c8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  assetAddress: Assets/Sprite/UI/Home (1).png
 --- !u!1 &2117114359
 GameObject:
   m_ObjectHideFlags: 0
@@ -16320,3 +16351,4 @@ SceneRoots:
   - {fileID: 393059579}
   - {fileID: 2114634768}
   - {fileID: 117116882}
+  - {fileID: 1070139011}

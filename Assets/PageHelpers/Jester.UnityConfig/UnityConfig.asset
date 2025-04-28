@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: UnityConfig
   m_EditorClassIdentifier: 
   _preferences:
-    _key: enviorenment_color
-    _value: red
+    _key: default_user_settings
+    _value: stripped
