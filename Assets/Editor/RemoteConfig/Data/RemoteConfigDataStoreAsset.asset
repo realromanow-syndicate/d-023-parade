@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
   m_EditorClassIdentifier: 
-  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"f5e1612e-7421-43ac-95b4-2b0bc117ad67\"\n   
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"dec9f384-dd99-42f9-8895-4d985c45c8ea\"\n   
     },\n    \"rs\": {\n      \"key\": \"default_user_settings\",\n      \"type\":
     \"string\",\n      \"value\": \"default\"\n    }\n  }\n]"
-  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"f5e1612e-7421-43ac-95b4-2b0bc117ad67\"\n   
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"dec9f384-dd99-42f9-8895-4d985c45c8ea\"\n   
     },\n    \"rs\": {\n      \"key\": \"default_user_settings\",\n      \"type\":
     \"string\",\n      \"value\": \"default\"\n    }\n  }\n]"
   _environments: "[\n  {\n    \"projectId\": \"e2651d9d-6233-42bc-ab51-8421c07b697b\",\n   
